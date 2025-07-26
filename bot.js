@@ -412,5 +412,5 @@ app.listen(PORT, () => {
 });
 
 // Token do Discord (usar variável de ambiente para segurança)
-const token = process.env.DISCORD_TOKEN || 'MTM4MDA1OTgwMjU1MzY4Mzk3OQ.G6QxGG.wnKmpR20tmlq4vMe73cMDaNPG8GWT5sM4aZJdc';
+const token = process.env.DISCORD_TOKEN || 'MTM5NzY0MDQ2MjEzNDgwNDUwMA.GhseiC.n3jz6IAeyVBb5h7ljZB0LjwufYH1mKSSMP4BDY';
 client.login(token);
